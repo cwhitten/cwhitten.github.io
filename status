@@ -1,7 +1,7 @@
 {
-  expenses: {
-    completed: ["headphones"],
-    accepted: ["mice"],
-    denied: ["ltd edition"]
+  "expenses": {
+    "completed": ["headphones"],
+    "accepted": ["mice"],
+    "denied": ["ltd edition"]
   }
 }
