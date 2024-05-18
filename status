@@ -1,1 +1,7 @@
-"hello"
+{
+  "expenses": {
+    "completed": ["headphones"],
+    "accepted": ["mice"],
+    "denied": ["ltd edition"]
+  }
+}
