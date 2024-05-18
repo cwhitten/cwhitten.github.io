@@ -2,10 +2,10 @@
   "expenses": {
     "completed": [
       {
-        "id": "5bf6f567-79f2-4380-b4cf-52c5b86a5d69"
-        "category": "Headphones"
-        "item": "Bose QuietComfort 2"
-        "cost": "$120.99"
+        "id": "5bf6f567-79f2-4380-b4cf-52c5b86a5d69",
+        "category": "Headphones",
+        "item": "Bose QuietComfort 2",
+        "cost": "$120.99",
         "date": "2024-05-04"
       },
       {
