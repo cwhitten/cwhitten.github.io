@@ -1,7 +1,38 @@
 {
   "expenses": {
-    "completed": ["headphones"],
-    "accepted": ["mice"],
-    "denied": ["ltd edition"]
+    "completed": [
+      {
+        "id": "5bf6f567-79f2-4380-b4cf-52c5b86a5d69"
+        "category": "Headphones"
+        "item": "Bose QuietComfort 2"
+        "cost": "$120.99"
+        "date": "2024-05-04"
+      },
+      {
+        "id": "6af1062e-92cc-4779-8f90-f9a0bb3d8529",
+        "category": "Keyboard",
+        "item": "Logitech MX MECHANICAL",
+        "cost": "$140.30",
+        "date": "2024-05-01"
+      },
+    ],
+    "accepted": [
+      {
+        "id": "03673ed6-9c31-4200-9d13-04ba0d85de93",
+        "category": "Mouse",
+        "item": "Logitech MX518",
+        "cost": "54.02",
+        "date": "2024-05-03"
+      },
+    ],
+    "denied": [
+      {
+        "id": "03673ed6-9c31-4200-9d13-04ba0d85de93",
+        "category": "Meals - General",
+        "item": "Ltd. Edition Sushi",
+        "cost": "$450.00",
+        "date": "2024-05-03"
+      },
+    ]
   }
 }
