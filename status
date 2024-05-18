@@ -1,5 +1,5 @@
 {
-  "expenses": {
+  "expenses": [
     {
       "id": "5bf6f567-79f2-4380-b4cf-52c5b86a5d69",
       "category": "Headphones",
@@ -32,5 +32,5 @@
       "date": "2024-05-03",
       "status": "denied"
     },
-  }
+  ]
 }
