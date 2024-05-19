@@ -1,4 +1,6 @@
 {
-  "success": true,
-  "requestId": "9c23e2b4-7ad9-4f51-84d4-93d212245e07"
+  "result": {
+    "success": true,
+    "requestId": "9c23e2b4-7ad9-4f51-84d4-93d212245e07"
+  }
 }
